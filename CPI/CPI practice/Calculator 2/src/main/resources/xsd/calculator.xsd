@@ -1,0 +1,11 @@
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Calculation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Number1" type="xs:unsignedByte" />
+        <xs:element name="Number2" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

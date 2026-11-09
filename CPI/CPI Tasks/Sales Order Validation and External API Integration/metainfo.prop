@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Mon Nov 09 05:31:59 UTC 2026
+description=An external application submits sales orders to CPI. CPI must validate the request, enrich it with customer information from an OData service, transform the data and send the order to a target REST API. It must also handle errors and return exact response

@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Mon Nov 09 05:31:59 UTC 2026
+description=An external application sends employee details to SAP CPI through an HTTP endpoint. CPI must process the incoming JSON\npayload and send the employee details to HR by email.

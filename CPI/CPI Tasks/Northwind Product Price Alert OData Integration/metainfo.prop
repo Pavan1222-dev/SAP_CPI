@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Mon Nov 09 05:31:59 UTC 2026
+description=A business wants to monitor product prices from the public Northwind OData service. CPI must fetch product information,\nidentify products with a UnitPrice greater than 50, and email a report of matching products.

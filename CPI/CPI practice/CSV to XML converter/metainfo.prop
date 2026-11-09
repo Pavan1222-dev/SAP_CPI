@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Mon Nov 09 05:34:29 UTC 2026
+description=This Iflow is for CSV to XML conversion. \nWe used an XSD schema which acts as the skeleton and then keeps it possibly ina structures XML from CSV data.
